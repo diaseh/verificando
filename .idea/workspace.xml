@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c57169c-2bcb-475b-9041-f1fde0e6c2d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RuAc3swaeGKLQrVfg2Ao6086x9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/eduar/Desktop/site-main/Site&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="aplication.gateways" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.HpaControllerTest.hpaIncreaseDelay_ValidInput_ReturnsOK">
+    <configuration name="HpaControllerTest.hpaIncreaseDelay_ValidInput_ReturnsOK" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;HpaControllerTest.hpaIncreaseDelay_ValidInput_ReturnsOK&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HpaControllerTest.hpaLoadDuration_ExecuteBusyThreads" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;HpaControllerTest.hpaLoadDuration_ExecuteBusyThreads&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HpaControllerTest.hpaIncreaseDelay_ValidInput_ReturnsOK" />
+        <item itemvalue="Gradle.HpaControllerTest.hpaLoadDuration_ExecuteBusyThreads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c57169c-2bcb-475b-9041-f1fde0e6c2d2" name="Changes" comment="" />
+      <created>1688089688440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688089688440</updated>
+      <workItem from="1688089688909" duration="10026000" />
+      <workItem from="1689246326729" duration="1332000" />
+      <workItem from="1689277481351" duration="6029000" />
+      <workItem from="1694793229656" duration="4850000" />
+      <workItem from="1694917815488" duration="371000" />
+      <workItem from="1694918318731" duration="593000" />
+      <workItem from="1694919605971" duration="110000" />
+      <workItem from="1695119600435" duration="7437000" />
+      <workItem from="1695821931159" duration="2954000" />
+      <workItem from="1696357727818" duration="16548000" />
+      <workItem from="1696506156667" duration="1438000" />
+      <workItem from="1696514797408" duration="3592000" />
+      <workItem from="1696527034580" duration="3093000" />
+      <workItem from="1696591966663" duration="2437000" />
+      <workItem from="1696966823844" duration="2442000" />
+      <workItem from="1697161524870" duration="23758000" />
+      <workItem from="1697458210759" duration="27367000" />
+      <workItem from="1698205738777" duration="14235000" />
+      <workItem from="1698504885355" duration="21780000" />
+      <workItem from="1698758185955" duration="19968000" />
+      <workItem from="1698978175702" duration="3314000" />
+      <workItem from="1699014474512" duration="12671000" />
+      <workItem from="1699091975643" duration="10442000" />
+      <workItem from="1699219755095" duration="1807000" />
+      <workItem from="1699267045569" duration="6210000" />
+      <workItem from="1699356497444" duration="4768000" />
+      <workItem from="1699387187203" duration="8846000" />
+      <workItem from="1699408389647" duration="2701000" />
+      <workItem from="1699442409944" duration="19684000" />
+      <workItem from="1699549431904" duration="6330000" />
+      <workItem from="1699616151522" duration="93000" />
+      <workItem from="1699632069529" duration="7618000" />
+      <workItem from="1699726876175" duration="1386000" />
+      <workItem from="1699728628814" duration="27000" />
+      <workItem from="1699753690211" duration="1058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
